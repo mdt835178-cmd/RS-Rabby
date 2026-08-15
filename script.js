@@ -1,1 +1,0 @@
-function showLove(){document.getElementById("popup").classList.add("show")}function closeLove(){document.getElementById("popup").classList.remove("show")}document.getElementById("popup").addEventListener("click",function(e){if(e.target===this)closeLove()});
